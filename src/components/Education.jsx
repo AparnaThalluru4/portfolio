@@ -31,7 +31,7 @@ const education = [
 
 const Education = () => (
   <div className="max-w-6xl mx-auto px-4 py-12">
-    <h2 className="text-3xl text-white font-bold mb-10 text-center">Education</h2>
+    <h2 className="text-4xl text-white font-bold mb-10 text-center">Education</h2>
     <div className="relative">
       {/* Timeline vertical line */}
       <div className="hidden md:block absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gray-300 rounded"></div>
